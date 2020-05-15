@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.5'
 # Custom Gems
 gem 'country_select'
 gem 'will_paginate', '~> 3.1.0'
-gem 'devise', '4.4.1'
+gem 'devise', '4.7.1'
 gem 'dotenv-rails', groups: [:development, :test]
 
 # Use Redis adapter to run Action Cable in production
